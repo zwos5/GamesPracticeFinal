@@ -25,4 +25,4 @@ Partially complete practice final for CS 4223 Game Programming Spring 2023
 
 3. Use the exit scene to show the highest 10 scores. You can use a text box, list box, or the tutorial.
 
-4. Add a button to reset (delete all the high scores)
+4. Add a button to reset (delete all the high scores).
